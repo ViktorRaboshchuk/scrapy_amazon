@@ -15,3 +15,4 @@ In this project I parsed Amazon Electronics category using python Scrapy package
     product_reviews - start count(reviews)
     
 In the main scraper you cood uncomment code to fetch all product from each sum category
+

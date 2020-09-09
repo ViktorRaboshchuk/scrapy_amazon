@@ -15,5 +15,7 @@ In this project I parsed Amazon Electronics category using python Scrapy package
     product_image - main image of the product
     product_reviews - start count(reviews)
     
-In the main scraper you cood uncomment code to fetch all product from each sum category
+In the main scraper you cood uncomment code to fetch all product from each sum category.
+
+Also you can find python file with data processing. Sample code prettifying dataframe columns.
 

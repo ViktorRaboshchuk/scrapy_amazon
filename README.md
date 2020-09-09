@@ -1,8 +1,9 @@
 # scrapy_amazon
 
 In this project I parsed Amazon Electronics category using python Scrapy package. Output is CSV file with such columns:
-    product_page - web link to the product 
-    category_name - sub Electrinics category
+
+	product_page - web link to the product 
+	category_name - sub Electrinics category
     product_name - title of the product
     (there are several price objects on the page that may not be displayed, so I parsed price from different places)
     product_main_price - price#1
